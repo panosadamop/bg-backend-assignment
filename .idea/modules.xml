@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/app-server/app-server.iml" filepath="$PROJECT_DIR$/app-server/app-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appclient.iml" filepath="$PROJECT_DIR$/appclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appserver/appserver.iml" filepath="$PROJECT_DIR$/appserver/appserver.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/bg-backend-assignment.iml" filepath="$PROJECT_DIR$/.idea/bg-backend-assignment.iml" />
     </modules>
   </component>

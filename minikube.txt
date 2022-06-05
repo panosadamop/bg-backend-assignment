@@ -1,2 +1,0 @@
-$ minikube list
-$ kubectl port-forward service/server 8080:8080
